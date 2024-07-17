@@ -28,8 +28,9 @@ h1 h2 h3 h4 h5 h6 {
     color: white;
     text-decoration: none;
     margin-top: 20px;
-    margin: 10px;
-    border: white 1px solid;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border: white 2px solid;
     border-radius: 5px;
     padding: 10px;
 }
