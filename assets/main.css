@@ -46,9 +46,11 @@ h1 h2 h3 h4 h5 h6 {
 button {
     color: white;
     background-color: #111216;
-    padding: 8px 10px;
+    padding: 8px 12px;
     font-size: large;
     margin-right: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
 }
 
 button:hover {
