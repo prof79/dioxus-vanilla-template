@@ -42,3 +42,15 @@ h1 h2 h3 h4 h5 h6 {
 #header {
     max-width: 1200px;
 }
+
+button {
+    color: white;
+    background-color: #111216;
+    padding: 8px 10px;
+    font-size: large;
+    margin-right: 1rem;
+}
+
+button:hover {
+    background-color: #1f1f1f;
+}
