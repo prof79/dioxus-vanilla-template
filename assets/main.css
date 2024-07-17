@@ -16,7 +16,7 @@ h1 h2 h3 h4 h5 h6 {
 }
 
 #links {
-    width: 400px;
+    width: 25rem;
     text-align: left;
     font-size: x-large;
     color: white;
@@ -27,12 +27,12 @@ h1 h2 h3 h4 h5 h6 {
 #links a {
     color: white;
     text-decoration: none;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 10px;
-    border: white 2px solid;
-    border-radius: 5px;
-    padding: 10px;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+    margin-right: 0.6rem;
+    border: white 0.14rem solid;
+    border-radius: 0.4rem;
+    padding: 0.6rem;
     transition-duration: 250ms;
 }
 
@@ -42,17 +42,17 @@ h1 h2 h3 h4 h5 h6 {
 }
 
 #header {
-    max-width: 1200px;
+    max-width: 75rem;
 }
 
 button {
     color: white;
     background-color: #111216;
-    padding: 8px 12px;
+    padding: 0.5rem 0.75rem;
     font-size: large;
     margin-right: 1rem;
     margin-bottom: 1rem;
-    border: white 2px solid;
+    border: white 0.14rem solid;
     border-radius: 0.5rem;
 }
 
