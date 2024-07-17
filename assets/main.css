@@ -33,6 +33,7 @@ h1 h2 h3 h4 h5 h6 {
     border: white 2px solid;
     border-radius: 5px;
     padding: 10px;
+    transition-duration: 250ms;
 }
 
 #links a:hover {
@@ -56,4 +57,5 @@ button {
 
 button:hover {
     background-color: #1f1f1f;
+    transition-duration: 250ms;
 }
