@@ -1,6 +1,6 @@
 [package]
 name = "dioxus-new"
-version = "0.1.0"
+version = "0.10.0"
 authors = ["prof79 <markus@markusegger.at>"]
 edition = "2021"
 

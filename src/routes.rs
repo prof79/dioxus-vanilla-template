@@ -3,7 +3,7 @@
 
 use dioxus::prelude::*;
 
-use crate::components::{Home, Blog};
+use crate::components::*;
 
 #[derive(Clone, Routable, Debug, PartialEq)]
 pub enum Routes {
@@ -13,4 +13,7 @@ pub enum Routes {
 
     #[route("/blog/:id")]
     Blog { id: i32 },
+
+    #[route("/about")]
+    About {},
 }
